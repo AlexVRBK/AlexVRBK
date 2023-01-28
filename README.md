@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Alexandr</h1>
 
 Front-End Developer
--------------------
+
 
 I am a well-organized and self-motivated front-end software engineer.<br> 
 I have been working mostly with Vue.js
@@ -12,7 +12,8 @@ I have been working mostly with Vue.js
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [vvvorobok@gmail.com](mailto:vvvorobok@gmail.com)
 <br>
-<br>
+
+
 ### **Skills**
 
 
@@ -29,7 +30,6 @@ I have been working mostly with Vue.js
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-<br>
 
 
 
