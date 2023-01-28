@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Alexandr</h1>
 
-<h2 align="left">Front-End Developer</h1>
+<h2 align="left">Front-End Developer</h2>
 
 
 
