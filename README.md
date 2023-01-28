@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Alexandr</h1>
 
-Front-End Developer
+<h2 align="left">Front-End Developer</h1>
+
 
 
 I am a well-organized and self-motivated front-end software engineer.<br> 
