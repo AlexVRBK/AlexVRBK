@@ -10,9 +10,10 @@
 I am a well-organized and self-motivated front-end software engineer.<br> 
 I have been working mostly with Vue.js
 
-* 🌍  I'm based in Ukraine
+
 * ✉️  You can contact me at [vvvorobok@gmail.com](mailto:vvvorobok@gmail.com)
 
+</br>
 
 ### **Skills**
 
