@@ -7,8 +7,7 @@
 
 
 
-I am a well-organized and self-motivated front-end software engineer.<br> 
-I have been working mostly with Vue.js
+I have been working mostly with Vue.js / Nuxt
 
 
 * ✉️  You can contact me at [vvvorobok@gmail.com](mailto:vvvorobok@gmail.com)
