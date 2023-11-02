@@ -3,11 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Alexandr</h1>
 
-<h2 align="left">Front-End Developer (Vue.js)</h2>
+<h2 align="left">Front-End Developer (React / Vue.js)</h2>
 
 
-
-I have been working mostly with Vue.js / Nuxt
 
 
 * ✉️  You can contact me at [vvvorobok@gmail.com](mailto:vvvorobok@gmail.com)
@@ -28,6 +26,7 @@ I have been working mostly with Vue.js / Nuxt
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" />
   </a>&nbsp;&nbsp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
   </a>&nbsp;&nbsp;
