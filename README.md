@@ -9,7 +9,7 @@
 
 
 * ✉️  You can contact me at [vvvorobok@gmail.com](mailto:vvvorobok@gmail.com)
-* 🖥️  See my portfolio at [MyPortfolio](http://alexvorobok-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://alex-vrbk.netlify.app/)
  
 </br>
 
