@@ -1,4 +1,4 @@
-![](/header1.png)
+![](/header.jpg)
 
 <h2 align="left">Software Engineer</h2>
  
