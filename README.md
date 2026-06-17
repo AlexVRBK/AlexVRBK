@@ -1,15 +1,6 @@
 ![](/header1.png)
 
-
-<h1 align="center">Hi 👋, I'm Alexandr</h1>
-
-<h2 align="left">Front-End Developer (React / Vue.js)</h2>
-
-
-
-
-* ✉️  You can contact me at [vvvorobok@gmail.com](mailto:vvvorobok@gmail.com)
-* 🖥️  See my portfolio at [MyPortfolio](https://alex-vrbk.netlify.app/)
+<h2 align="left">Software Engineer</h2>
  
 </br>
 
