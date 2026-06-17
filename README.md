@@ -83,15 +83,9 @@
   <a href="https://www.github.com/AlexVRBK" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>&nbsp;&nbsp;
-  <a href="http://www.instagram.com/vorobok.s" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alexvorobok" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.twitter.com/ALEX_VRBK" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-  </a>
 </p>
 <br>
 <br>
